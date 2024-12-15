@@ -1,0 +1,10 @@
+streamlit == 1.40.2
+pandas == 2.2.3
+requests == 2.32.3
+python-dotenv ==  1.0.1
+googlemaps == 4.10.0
+folium == 0.19.2
+numpy == 2.1.1
+streamlit_folium == 0.23.2
+gspread == 6.1.4
+oauth2client == 4.1.3
